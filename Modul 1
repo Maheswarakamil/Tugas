@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabel Nilai Siswa</title>
+    <style>
+        table {
+            width: 80%;
+            margin: 20px auto;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid #ccc;
+            padding: 8px;
+            text-align: center;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <h1>Tabel Nilai Siswa</h1>
+    <table>
+        <tr>
+            <th>No</th>
+            <th>Nama Siswa</th>
+            <th>Nilai Ulangan Harian</th>
+            <th>Nilai UTS</th>
+            <th>Nilai UAS</th>
+            <th>Nilai Akhir</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>Alice</td>
+            <td>85</td>
+            <td>75</td>
+            <td>90</td>
+            <td>83.3</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Bob</td>
+            <td>70</td>
+            <td>80</td>
+            <td>85</td>
+            <td>78.3</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Charlie</td>
+            <td>90</td>
+            <td>95</td>
+            <td>88</td>
+            <td>91.0</td>
+        </tr>
+    </table>
+</body>
+</html>
