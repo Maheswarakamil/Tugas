@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pancasila</title>
+    <style>
+        .sila-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 20px;
+        }
+        .sila {
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+        .sila img {
+            max-width: 100px;
+            max-height: 100px;
+            margin-right: 10px;
+        }
+        .sila-text {
+            font-size: 18px;
+            line-height: 1.5;
+        }
+    </style>
+</head>
+<body>
+    <div class="sila-container">
+        <div class="sila">
+            <img src="bintang.jpg.png" alt="Sila 1">
+            <p class="sila-text">1. Ketuhanan Yang Maha Esa</p>
+        </div>
+        <div class="sila">
+            <p class="sila-text">2. Kemanusiaan yang Adil dan Beradab</p>
+            <img src="rantai.png" alt="Sila 2">
+           
+        </div>
+        <div class="sila">
+            <img src="bringin.png" alt="Sila 3">
+            <p class="sila-text">3. Persatuan Indonesia</p>
+        </div>
+        <div class="sila">
+           
+            <p class="sila-text">4. Kerakyatan yang Dipimpin oleh Hikmat Kebijaksanaan dalam Permusyawaratan/Perwakilan</p>
+            <img src="banteng.png" alt="Sila 4">
+        </div>
+        <div class="sila">
+            <img src="padi.png" alt="Sila 5">
+            <p class="sila-text">5. Keadilan Sosial bagi Seluruh Rakyat Indonesia</p>
+        </div>
+    </div>
+</body>
+</html>
