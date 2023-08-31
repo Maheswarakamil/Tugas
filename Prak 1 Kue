@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 align="center">RESEP KUE MARYAM</h1>
+    <img src="maryam.jpg" width="300" height="300"align="right"hspace="20" vspace="20" alt="roti">
+    <h2>Bahan Bahan: </h2>
+    <ul>
+        <li>
+            <p>250gram tepung terigu</p>
+        </li>
+        <li>
+            <p>1 butir telur</p>
+        </li>
+        <li>
+            <p>3 sdm margarin, lelehkan</p>
+        </li>
+        <li>
+            <p>100 ml air hangat</p>
+        </li>
+        <li>
+            <p>2 sdm susu bubuk (optional)</p>
+        </li>
+        <li>
+            <p>1/2 sdt garam</p>
+        </li>
+        <li>
+            <p>margarin leleh untuk olesan</p>
+        </li>
+        <li>
+            <p>minyak untuk merendam</p>
+        </li>
+    </ul>
+    <hr>
+    <h2>Langkah-Langkah </h2>
+    <ol type="1">
+        <li>
+            <p>Campur semua bahan roti jadi satu</p>
+        </li>
+        <img src="img.png" alt="1">
+        <li>
+            <p>Uleni sampai kalis (aku pake tangan) jangan takut jika adonan lengket ya, lumuri tangan sesekali dg tepung (tapi jangan menambahkan tepung) uleni terus sampai adonan kalis</p>
+        </li>
+        <img src="img2.png" alt="2">
+        <li>
+            <p>Kalisnya adonan canai tidak sekalis adonan roti ya,kira2 seperti ini sudah cukup</p>
+        </li>
+        <img src="img3.png" alt="3">
+    </ul>
+    
+</body>
+</html>
